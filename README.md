@@ -35,7 +35,7 @@
 - Created a **desktop application** to manage and track **student counts branch-wise** using a **Java GUI**.  
 - Integrated with **SQL database** for data persistence.
 
-  ---
+---
 
  ### 💼 Internships
 
@@ -50,7 +50,7 @@
 - Worked on **CI/CD pipelines**, monitored deployments with **CloudWatch**, and ensured system reliability.  
 - Gained experience in **cloud scaling, load balancing, and service automation**.
 
-  ---
+---
 
 ### 🏆 Certifications  
 - **IT Specialist – HTML & CSS** 
