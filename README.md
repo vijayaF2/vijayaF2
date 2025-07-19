@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [**H.E.A.R.T**](https://github.com/vijayaF2/abnormality)
-- 🌱 I’m currently learning sdsb
+🔭 I’m currently working on [**H.E.A.R.T**](https://github.com/vijayaF2/abnormality)
+🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
