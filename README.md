@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chittavijaya611@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1YiIITgtF4b4qqAEZuLP3RgfDn_kxyct6/view)
+- 📄 Know about my experiences [View My Resume](https://adityagroup-my.sharepoint.com/:b:/g/personal/22mh1a42f2_acoe_edu_in/EQDtTo8Lq2JAqMZYJzvMhEcBWPd0jqk_RlRaX2QwmitkRQ?e=eZcoyc)
 
 ---
 
