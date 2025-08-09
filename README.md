@@ -24,7 +24,7 @@
 - Technologies: **React, Node.js, Express.js, MongoDB, Gemini API**
 
 📂 **AWS Elastic Beanstalk Deployment (Cloud Project)**  
-- Automated deployment of a **Python web application** using **AWS Elastic Beanstalk** with **CI/CD pipelines**.  
+- Automated deployment of a **Python web application** using **AWS Elastic Beanstalk**.  
 - Focused on **scalability and cloud optimization**.
 
 📂 **Student Branch Counter (Java GUI Project)**  
