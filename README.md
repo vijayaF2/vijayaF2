@@ -23,10 +23,6 @@
 - Built a **real-time health monitoring system** with **smartwatch integration**, **symptom checker**, and a **personalized health dashboard**.  
 - Technologies: **React, Node.js, Express.js, MongoDB, Gemini API**
 
-📂 **Spam Detection System (ML Project)**  
-- Developed a **real-time email spam detection system** using **Machine Learning** and **NLP techniques**.  
-- Tools & Technologies: **Python, Scikit-learn, Flask**
-
 📂 **AWS Elastic Beanstalk Deployment (Cloud Project)**  
 - Automated deployment of a **Python web application** using **AWS Elastic Beanstalk** with **CI/CD pipelines**.  
 - Focused on **scalability and cloud optimization**.
